@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:showIn="navigation_view"
+        >
+
+        <item android:title="@string/ad">
+                <menu>
+                        <item android:title="@string/ad__my_ads" android:id="@+id/my_ads"/>
+                        <item android:title="@string/ad__car" android:id="@+id/car"/>
+                        <item android:title="@string/ad__pc" android:id="@+id/pc"/>
+                        <item android:title="@string/ad__smartphone" android:id="@+id/smartphones"/>
+                        <item android:title="@string/ad__domestics" android:id="@+id/domestics"/>
+                </menu>
+        </item>
+
+        <item android:title="@string/acc">
+                <menu>
+                        <item android:title="@string/acc__sign_up" android:id="@+id/sign_up"/>
+                        <item android:title="@string/acc__sign_in" android:id="@+id/sign_in"/>
+                        <item android:title="@string/acc__sign_out" android:id="@+id/sign_out"/>
+                </menu>
+        </item>
+
+</menu>

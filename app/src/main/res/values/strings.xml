@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BBS</string>
+
+    <!-- Menu Drawer Strings -->
+    <string name="ad">Обьявления</string>
+    <string name="ad__my_ads">Мои обьявления</string>
+    <string name="ad__car">Автомобили</string>
+    <string name="ad__pc">Компьютеры</string>
+    <string name="ad__smartphone">Мобильные телефоны</string>
+    <string name="ad__domestics">Бытовая техника</string>
+    <string name="acc">Аккаунт</string>
+    <string name="acc__sign_up">Регистрация</string>
+    <string name="acc__sign_in">Вход</string>
+    <string name="acc__sign_out">Выход</string>
+
+
+</resources>
